@@ -1,4 +1,4 @@
-#Analyzing Global Content Trends on Netflix
+**Analyzing Global Content Trends on Netflix**
 Project Overview
 This project focuses on analyzing the global content trends available on Netflix by exploring the distribution of titles by country and genre. Additionally, it tracks content release patterns over the years to provide insights into Netflix's growth and genre popularity. The analysis leverages Power BI for data visualization and Python for data processing.
 
